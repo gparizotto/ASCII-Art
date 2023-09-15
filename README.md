@@ -3,6 +3,8 @@
 
 ![Image of the image converter](./readme-assets/image.png)
 
+![Image of the image converter](./readme-assets/video.gif)
+
 ## Run the application
 
 **Clone the repository**
