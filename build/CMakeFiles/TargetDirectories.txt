@@ -1,0 +1,3 @@
+/home/parizotto/github/ASCII converter/build/CMakeFiles/video.dir
+/home/parizotto/github/ASCII converter/build/CMakeFiles/edit_cache.dir
+/home/parizotto/github/ASCII converter/build/CMakeFiles/rebuild_cache.dir
